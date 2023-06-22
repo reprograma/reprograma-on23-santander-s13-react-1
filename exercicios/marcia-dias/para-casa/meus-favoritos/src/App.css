@@ -1,0 +1,47 @@
+#root {
+  max-width: 100%;
+  margin: 2;
+  /* padding: 2rem; */
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+
+
+.card {
+  display:flex;
+  flex-direction: column;
+  margin-left: 300px;
+  margin-right: 300px;
+  gap: 10px
+  
+}
+
+
+.card img {
+  width: 400px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+
+.banner {
+  height: 400px;
+  margin-top: 70px;
+  background-image: url("./assets/cinema.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+
+}
+
+
+.conteiner {
+  width: 100%;
+  background-color: #000000;
+  color: rgb(255, 254, 254);
+  padding-block: 1rem;
+  text-align: center;
+  
+
+}
