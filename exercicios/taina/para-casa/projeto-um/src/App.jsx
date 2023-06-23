@@ -4,8 +4,8 @@ import Header from './components/Header';
 import Card from './components/Card';
 import Footer from './components/Footer';
 
-import evangelion from './assets/evangelion.webp';
-import cafe from './assets/download.jpeg';
+import tai from './assets/txucalinda.jpg';
+import coracao from './assets/coracao.jpg';
 
 function App() {
 
@@ -16,16 +16,16 @@ function App() {
       <Card 
         title="Gatinhos" 
         description="Lorem Ipsum is simply dummy text of the prinas bee" 
-        image={evangelion} 
-        imageAlt="robozinhos legais do evagelion"
+        image={tai} 
+        imageAlt="imagem de tai"
       />
       <Card 
-        title="Cafés" 
+        title="Amor" 
         description="Lorem Ipsum is simply dummy text of the prinas bee" 
-        image={cafe} 
-        imageAlt="café da tarde"
+        image={coracao} 
+        imageAlt="Muito amor"
       />
-      <Footer name="Lili"/>
+      <Footer name="tai"/>
     </>
   )
 }
