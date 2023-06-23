@@ -2,14 +2,12 @@ import Subtitle from "./Subtitle"
 import Title from "./Title"
 import Image from "./Image"
 
-import titania from './titania.jpeg' 
-
-function Card() {
+function Card({image, title, subtitle}) {
   return (
     <div className="cards_container">
-      <Title text="Mahoutsukai no Yome"/>
-      <Subtitle>2017</Subtitle>
-      <Image class="image" caption="Titânia - Rainha das fadas" image={titania} />
+      <Title text={title}/>
+      <Subtitle>{subtitle}</Subtitle>
+      <Image className="image" caption="Titânia - Rainha das fadas" image={image} />
     </div>
   )
 }
