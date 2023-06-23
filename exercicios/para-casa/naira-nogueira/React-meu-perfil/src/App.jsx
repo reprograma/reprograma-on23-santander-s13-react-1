@@ -6,6 +6,8 @@ import  Footer  from './components/Footer'
 
 import html from './components/image/html.jpg'
 import css from './components/image/css.jpg'
+import js from './components/image/js.jpg'
+import react from './components/image/react.jpg'
 
 
 function App() {
@@ -27,7 +29,21 @@ function App() {
       imageAlt="css"
       />
 
-      <Footer name="Náira"/>
+<Cards 
+      title="JS" 
+      description="JS (JavaScript) é a linguagem de programação estruturada e de alto nível de script. O html, css e JS são as principais tecnologias da World Wide Web. " 
+      image={js}
+      imageAlt="js"
+      />
+
+<Cards 
+      title="REACT" 
+      description="React é uma ferramenta Front-End JavaScript de código aberto com a função de criar as websites." 
+      image={react}
+      imageAlt="react"
+      />
+
+      <Footer name="Náira Nogueira"/>
     </div>
   )
 }

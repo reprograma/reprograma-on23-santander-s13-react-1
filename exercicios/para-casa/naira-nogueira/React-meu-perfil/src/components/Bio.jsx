@@ -7,7 +7,7 @@ import nai from "../components/image/naira.jpeg"
 function Bio(){
     return(
        <>
-        <Title text="Náira Nogueira"/>
+        <Title text="Prazer, Náira Nogueira!"/>
         <Text text="Sou Náira Nogueira, atualmente estou fazendo transição de carreira. Sou aluna da Reprograma no curso de Desenvolvedora Front-End."/>
         <Image img={nai} description="Naira"/>
       </>
