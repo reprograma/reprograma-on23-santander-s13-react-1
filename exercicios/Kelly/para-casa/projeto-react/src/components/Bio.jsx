@@ -2,7 +2,7 @@ import Title from "./Title"
 import Text from "./Text"
 import Image from "./Image"
 
-import kelly from '../assets/kelly.png'
+import kelly from '../assets/kelly.gif'
 
 function Bio(){
     return(
