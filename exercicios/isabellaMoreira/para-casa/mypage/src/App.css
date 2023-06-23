@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color:#292A36;
+    color: whitesmoke;
+    padding-top: 5vh;
+  }
+  
+  .Content {
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+  }
+
