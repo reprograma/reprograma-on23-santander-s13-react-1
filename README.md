@@ -233,9 +233,9 @@ Diferente das props, a gente não repassa o estado pra o componente  quando vai 
 
 # Exercícios 
 
-## [Exercicio para sala](https://github.com/reprograma/reprograma-on23-santander-s13-react-1/tree/main/exercicios/nome-aluna/para-sala)
+## [Exercicio para sala](https://github.com/reprograma/reprograma-on23-santander-s13-react-1/tree/main/exercicios/maryanne-lima/para-sala)
 
-## [Exercicio para casa](https://github.com/reprograma/reprograma-on23-santander-s13-react-1/tree/main/exercicios/nome-aluna/projeto-casa)
+## [Exercicio para casa](https://github.com/reprograma/reprograma-on23-santander-s13-react-1/tree/main/exercicios/maryanne-lima/projeto-casa)
 
 ---
 # Citação e Agradecimento
