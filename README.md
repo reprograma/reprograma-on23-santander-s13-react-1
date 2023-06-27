@@ -102,7 +102,7 @@ Esta é a 13ª semana da turma online: Todas em Tech 0n23 - Front-end, nesta aul
 - Vamos rodar o seguinte comando:
 
 ```bash
-  npm create vite@latest nome-do-app -- --template react
+npm create vite@latest nome-do-app -- --template react
 ```
 > Este comando vai criar um projeto react do zero para nós, usando um template do Vite.<br>
 > Estará concluído quando aparecer no terminal:<br> 
